@@ -1,7 +1,15 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Oi! meu nome é Natália, tenho uma graduação em psicologia e atualmente curso Análise e Desenvolvimento de Sistemas, além disso fiz cursos de desenvolvimento mobile e engenharia de dados. 
 
 Tenho paixão por essas duas tecnologias, principalmente no desenvolvimento front-end, também estou sempre buscando me atualizar, e sou apaixonada em Design Systems.
+
+O que você vai encontrar aqui:
+_______________________________________________________________________________________________________________________________________________________________________________________
+
+- Estudos de diferentes tecnologias;
+- Projetos acadêmicos;
+- Aplicações Web;
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nattaliaasantos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/natalia-bento-364b2b235/) 
 
